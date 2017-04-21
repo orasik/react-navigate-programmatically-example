@@ -1,2 +1,14 @@
-# react-navigate-programmatically-example
-This is an example on how to navigate programmatically in React. The example will show a drop down list that loads pages on change
+# React: Navigate Programmatically Example
+Part of my learning process for React, I was building an application that requires navigating based on event, like dropdown change.
+
+This example is basically a dropdown list that will load pages based on dropdown.
+
+
+### How to run:
+
+```
+npm install
+npm run start
+```
+
+
